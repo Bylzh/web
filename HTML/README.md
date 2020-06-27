@@ -21,3 +21,6 @@ HTML，全称 HyperText Markup Language，译称：超文本标记语言。
   </body>
 </html>
 ```
+
+## 文件说明
+common.html --> 常用的标签
