@@ -1,6 +1,6 @@
 # 盒子模型Box Model
 
-![BoxModel](https://github.com/Bylzh/web/blob/master/CSS/img/BoxModel.gif)
+![image](./img/BoxModel.png)
 
 #### CSS盒模型各部分分别是：
 
